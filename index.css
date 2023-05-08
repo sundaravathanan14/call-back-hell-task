@@ -1,8 +1,9 @@
 h1{
-    font-size: 24px;
+    font-size: 40px;
+    font-weight: bold;
     text-align: center;
     
-    color: deeppink;
+    color: white;
     position: absolute;
   top: 50%;
   left: 50%;
@@ -11,5 +12,5 @@ h1{
     
 }
 body{
-    background-color: aliceblue;
+    background-color:#0B8D76 !important;
 }
